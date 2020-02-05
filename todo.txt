@@ -1,1 +1,7 @@
-(A) Call Deborah 2020-02-05 +money due:2020-02-05
+(A) Go to bank 2020-02-04 +personal due:2020-02-05
+(A) Review Meta dex instructional guide 2020-02-04 due:2020-02-04
+(A) Read GoJira 366 2020-02-04 due:2020-02-04
+(B) Python Scripts 2020-02-04 due:2020-02-11
+(B) Remove rohit from mailing list 2020-02-04 due:2020-02-05
+(C) Meet around CI/CD Design 2020-02-04 due:2020-02-15
+(A) Get everything out of PROD before upgrade +URGENT
