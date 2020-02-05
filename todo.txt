@@ -6,3 +6,4 @@
 (B) Remove rohit from mailing list 2020-02-04 due:2020-02-05
 (C) Meet around CI/CD Design 2020-02-04 due:2020-02-15
 (A) Arrange Sprint Meetings +ServiceOwner
+(C) Fix Proxy in WSL vscode +debugWorkComp  2020-02-05 
