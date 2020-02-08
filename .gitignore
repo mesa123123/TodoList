@@ -1,3 +1,3 @@
 ./config
 ./todo.cfg
-.todo.actions.d/**
+.todo.actions.d/
