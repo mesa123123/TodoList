@@ -3,3 +3,5 @@ x 2020-02-05 Call Deborah 2020-02-05 +money due:2020-02-05
 x 2020-02-05 Do the dev+prod compare +URGENT
 x 2020-02-05 Get everything out of PROD before upgrade +URGENT
 x 2020-02-08 Fix Proxy in WSL vscode +debugWorkComp  2020-02-05 
+x 2020-02-10 Go to bank 2020-02-04 +personal due:2020-02-14
+x 2020-02-10 Remove rohit from mailing list 2020-02-04 due:2020-02-05
