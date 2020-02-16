@@ -1,4 +1,7 @@
- (A) Read GoJira 366 2020-02-04 due:2020-02-04
+<<<<<<< HEAD
  (A) Review Meta dex instructional guide 2020-02-04 due:2020-02-04
- (C) Fix Proxy in WSL vscode +debugWorkComp  2020-02-05 
 (A) Alicia McGinniss <Alicia.Mcginniss@westpac.co.nz> +Urgent
+=======
+(X) Read GoJira 366 2020-02-04 due:2020-02-04
+(D) 2020-02-17 Sort out My TODO.txt File
+>>>>>>> origin/master

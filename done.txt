@@ -10,3 +10,8 @@ x 2020-02-13  (A) Arrange Sprint Meetings +ServiceOwner
 x 2020-02-13 Write Confluence On Teach Yourself To Code +Confluence
 x 2020-02-13  (S) Get Rubbish Bags 2020-02-10  +Groceries
 x 2020-02-13  (B) Python Scripts 2020-02-04 due:2020-02-11
+x 2020-02-16 Fix Proxy in WSL vscode 2020-02-05 +debugWorkComp
+x 2020-02-16 Review Meta dex instructional guide 2020-02-04 due:2020-02-04
+x 2020-02-17  (C) Fix Proxy in WSL vscode +debugWorkComp  2020-02-05 
+x 2020-02-17  (A) Read GoJira 366 2020-02-04 due:2020-02-04
+x 2020-02-17 Anton/Peter, Peter/Candy, William/Peter 2020-02-17 +Meetings
