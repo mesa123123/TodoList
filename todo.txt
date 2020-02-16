@@ -1,1 +1,2 @@
 (X) Read GoJira 366 2020-02-04 due:2020-02-04
+(D) 2020-02-17 Sort out My TODO.txt File
