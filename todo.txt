@@ -5,5 +5,3 @@
 (A) I'll talk with resmi to get a better idea of what we'll need to discuss going forward  +ServiceOwner
 (A) Create Ticket for IBM Clarification 2020.02.19 +ServiceOwner due:2020.02.19
 (A) Issue 391 SDE1Team 2020.02.19 +TeamWork
-(D) 2020-02-17 Sort out My TODO.txt File
-(C) Create Epic on Automation 2020-02-17 +testEngineering
