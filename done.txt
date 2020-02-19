@@ -19,3 +19,5 @@ x 2020-02-17 2020-02-17 Sort out My TODO.txt File
 x 2020-02-19 2020-02-17 Sort out My TODO.txt File
 x 2020-02-19 Alicia McGinniss <Alicia.Mcginniss@westpac.co.nz> +Urgent
 x 2020-02-20 Talk to the FDP Guys to get my passwords fixed +Urgent
+x 2020-02-20 Email FastData_Squad@westpac.co.nz re:metadex access +Urgent
+x 2020-02-20 Arrange meeting with Agile Coaches 2020.02.19  +ServiceOwner due:2020.02.19

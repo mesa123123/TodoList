@@ -5,7 +5,7 @@
 (A) Create Ticket for IBM Clarification 2020.02.19 +ServiceOwner due:2020.02.19
 (A) Issue 391 SDE1Team 2020.02.19 +TeamWork
 (B) Improve test harness based on Anton's Report 2020.02.19 +testEngineering 
-(A) Arrange meeting with Agile Coaches 2020.02.19  +ServiceOwner due:2020.02.19
 (C) Clean the Jira Board 2020.02.19 +ServiceOwner
 (S) Lunch with Bex Friday 2020.02.20  +Scheduled
-(A) Email FastData_Squad@westpac.co.nz re:metadex access +Urgent
+(S) Talk to Jon about Data Risk, i.e. access to KanBan Board +ServiceOwner
+(C) Documentation for Test Harness +testEngineering
