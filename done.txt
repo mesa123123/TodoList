@@ -17,3 +17,4 @@ x 2020-02-17  (A) Read GoJira 366 2020-02-04 due:2020-02-04
 x 2020-02-17 Anton/Peter, Peter/Candy, William/Peter 2020-02-17 +Meetings
 x 2020-02-17 2020-02-17 Sort out My TODO.txt File
 x 2020-02-19 2020-02-17 Sort out My TODO.txt File
+x 2020-02-19 Alicia McGinniss <Alicia.Mcginniss@westpac.co.nz> +Urgent
