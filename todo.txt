@@ -1,12 +1,12 @@
 (X) Read GoJira 366 2020-02-04 +TeamWork  
 (C) Create Epic on Automation 2020-02-17  +testEngineering
-(B) I'll talk with resmi to get a better idea of what we'll need to discuss going forward  +ServiceOwner
-(A) Create Ticket for IBM Clarification 2020.02.19 +ServiceOwner due:2020.02.19
+(A) Agenda for IBM Clarification 2020.02.19 +ServiceOwner due:2020.02.19
 (A) Issue 391 SDE1Team 2020.02.19 +TeamWork
 (B) Improve test harness based on Anton's Report 2020.02.19 +testEngineering 
 (C) Clean the Jira Board 2020.02.19 +ServiceOwner
 (S) Lunch with Bex Friday 2020.02.20  +Scheduled
 (B) Talk to Jon about Data Risk, i.e. access to KanBan Board +ServiceOwner
 (C) Documentation for Test Harness +testEngineering
-(S) Skype Cheeseball 2020.02.19 +Sheduled due:2020.02.23
+(S) Skype Cheeseball 2020.02.19 +Scheduled due:2020.02.23
 (A) Meeting Agenda for access roles +ServiceOwner
+(A) Get the Private_Key Scp'ed into the gateway servers +Urgent
