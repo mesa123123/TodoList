@@ -24,3 +24,9 @@ x 2020-02-20 Arrange meeting with Agile Coaches 2020.02.19  +ServiceOwner due:20
 x 2020-02-20 Review Meta dex instructional guide 2020-02-04 due:2020-02-04 +TeamWork
 x 2020-02-20 I'll talk with resmi to get a better idea of what we'll need to discuss going forward  +ServiceOwner
 x 2020-02-20 Get the Private_Key Scp'ed into the gateway servers +Urgent
+x 2020-02-21 Cleanse Feedback For Review
+x 2020-02-27 Skype Cheeseball 2020.02.19 +Scheduled due:2020.02.23
+x 2020-02-27 Go over the CRQ with Candy 2020.02.21 +ServiceOwner
+x 2020-02-27 Improve test harness based on Anton's Report 2020.02.19 +testEngineering 
+x 2020-02-27 Call MUM on sunday 2020.02.21 due:2020.02.21 +Scheduled
+x 2020-02-27 Lunch with Bex Friday 2020.02.20  +Scheduled
