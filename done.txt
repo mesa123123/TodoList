@@ -30,3 +30,5 @@ x 2020-02-27 Go over the CRQ with Candy 2020.02.21 +ServiceOwner
 x 2020-02-27 Improve test harness based on Anton's Report 2020.02.19 +testEngineering 
 x 2020-02-27 Call MUM on sunday 2020.02.21 due:2020.02.21 +Scheduled
 x 2020-02-27 Lunch with Bex Friday 2020.02.20  +Scheduled
+x 2020-03-02 Agenda for IBM Clarification 2020.02.19 +ServiceOwner due:2020.02.19
+x 2020-03-02 Meet with Anton re: Delta Creation Scripts 28.02.2020 +testEngineering
