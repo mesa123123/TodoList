@@ -32,3 +32,7 @@ x 2020-02-27 Call MUM on sunday 2020.02.21 due:2020.02.21 +Scheduled
 x 2020-02-27 Lunch with Bex Friday 2020.02.20  +Scheduled
 x 2020-03-02 Agenda for IBM Clarification 2020.02.19 +ServiceOwner due:2020.02.19
 x 2020-03-02 Meet with Anton re: Delta Creation Scripts 28.02.2020 +testEngineering
+x 2020-03-04 Create Epic on Automation 2020-02-17  +testEngineering
+x 2020-03-04 Pay GST/Student Loan/ACC 02.03.2020 +Contracting
+x 2020-03-04 Submit Feburary Invoice 02.03.2020 +Contracting
+x 2020-03-05 Shadow Resmi 02.03.2020 + TeamWork
